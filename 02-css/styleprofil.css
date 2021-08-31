@@ -1,0 +1,21 @@
+
+h1,h2,p{
+    color : #ffffff
+}
+
+table,tr,td,h4{
+    background-color:#888888;
+    font-family: century gothic;
+    color: rgb(0, 0, 0);
+    border: 2px solid #000000bb ;
+    padding: 5px;
+    border-collapse: separate;
+    
+    
+    }
+
+    body{
+    background-image: url(bgprodi4.jpg);
+    background-repeat: no-repeat;
+    background-size: 1900px auto;
+    }
