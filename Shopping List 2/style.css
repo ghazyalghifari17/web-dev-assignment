@@ -1,0 +1,29 @@
+body{
+    background-image: url(Backgroundputih.webp);
+    background-size: 1500px auto;
+    background-repeat: repeat;
+    font-family: Arial, Helvetica, serif;;
+    font-size: medium;
+    font-style: bold;
+    color: rgb(240, 12, 12);
+}
+
+button {
+    margin-left: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+h2 {
+    text-align: center;
+    margin-top: -40px;
+    margin-bottom: 50px;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+}
+
+li{
+    margin-bottom: 20px;
+}
